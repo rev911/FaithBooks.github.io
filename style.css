@@ -9,7 +9,7 @@ body 						{ font-size: 62.5%;
 	STRUCTURE
 */
 .post 						{
-	width: 400px;
+	width: auto;
 	height: auto;
 }
 
