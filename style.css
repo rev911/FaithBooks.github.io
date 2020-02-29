@@ -17,7 +17,11 @@ body 						{ font-size: 62.5%;
 /*
 	TYPOGRAPHY
 */
-p							{ font-size: 1.2em; margin: 0 0 15px 0; }
+p							{
+	font-size: large;
+	margin: 0 0 15px 0;
+	color: #000000;
+}
 h1							{ font-family: Helvetica, sans-serif; font-size: 4.0em;
 							  letter-spacing: -1px; color: #ccc; }
 h2							{ font-family: Helvetica, sans-serif; font-size: 3.0em;
